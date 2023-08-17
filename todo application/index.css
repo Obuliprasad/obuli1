@@ -1,0 +1,70 @@
+.pic1{
+padding-top: 30px;
+padding-left: 20px;
+height:100px;
+
+}
+.pic2{
+    border:1px solid black ;
+    height: 100px;
+
+}
+.a{
+    background-color: rgb(44, 44, 161);
+    color: aliceblue;
+    margin-left: 100px;
+}
+.part{
+    margin-top: 20px;
+    margin-left: 1500px;
+}
+button{
+    height: 25px;
+}
+.b{
+    margin-left: 100px;
+    padding: 10px;
+}
+.c{
+    margin-left: 100px;
+    padding: 10px;
+}
+.e{
+    margin-left: 100px;
+    background-color: green;
+    color: aliceblue;
+}
+.d{
+    background-color: red;
+    color: aliceblue;
+}
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-right:200px;
+
+
+}
+.b1{
+    background-color: greenyellow;
+
+}
+.b2{
+    background-color: red;
+
+}
+.b3{
+    background-color: cyan;
+    
+}
+.b4{
+    background-color: red;
+
+}
+button:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.td{
+    text-align: center;
+}
